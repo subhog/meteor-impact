@@ -1,0 +1,9 @@
+{
+  "name": "impact",
+  "description": "Impact. Alpha version - please come back later.",
+  "homepage": "https://github.com/subhog/meteor-impact",
+  "author": "Hubert Orlik Grzesik",
+  "version": "0.0.1",
+  "git": "https://github.com/subhog/meteor-impact.git",
+  "packages": {}
+}
